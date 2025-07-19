@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DeltaScriptzHub/Kuni-EggPredictor/refs/heads/main/ManualReroller", true))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/IKLchn8crd/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DeltaScriptzHub/Kuni-EggPredictor/refs/heads/main/ManualReroller", true))()
